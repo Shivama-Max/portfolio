@@ -83,8 +83,8 @@ function Header() {
           <div className="flex items-center gap-4">
             <a href = "https://wa.me/+919262565336">
               <button className="flex items-center gap-2 text-smallTextColor font-[600] border border-solid border-smallTextColor py-2 px-4 rounded-[8px] max-h-[40px] hover:bg-smallTextColor hover:text-white hover:font-[500] ease-in duration-300">
-                <i class="ri-send-plane-fill"></i>Reach Out
-              </button>
+              <i class="ri-send-plane-fill"></i>Reach Out
+            </button>
             </a>
             
           </div>

@@ -63,3 +63,10 @@ section {
   }
 
 }
+.darkmode--activated [id="p"], .darkmode--activated h5{
+    color: #fff;
+  }
+.darkmode--activated h1{
+    color: #e6cda9;
+}
+

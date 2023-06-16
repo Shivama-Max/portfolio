@@ -35,6 +35,7 @@ const Hero = () => {
                         </a>
                     </div>
                     <p 
+                        id="p"
                         data-aos="fade-left" 
                         data-aos-duration = "1800"
                         className='flex gap-2 text-headingColor mt-12 font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10'>
